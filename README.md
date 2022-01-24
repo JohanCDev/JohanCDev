@@ -1,7 +1,6 @@
 # Hi there 👋
 
 ![country](https://img.shields.io/badge/🌐%20%20country-France-blue)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=JohanCDev&style=flat-square)
 [![GitHub followers](https://img.shields.io/github/followers/JohanCDev.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/JohanCDev?tab=followers)
 
 ## Languages and Tools
@@ -18,3 +17,5 @@
 ![JohanCDev's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JohanCDev&layout=compact&theme=vision-friendly-dark&exclude_repo=Security_Pool)
 
 ## Contact
+
+[![linkedin](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/johan-chrillesen/)
