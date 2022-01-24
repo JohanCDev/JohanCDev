@@ -14,8 +14,8 @@
 
 ## Github Stats
 
-![JohanCDev's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JohanCDev&layout=compact&theme=vision-friendly-dark&exclude_repo=Security_Pool)
-![JohanCDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohanCDev&show_icons=true&theme=radical)
+![JohanCDev's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JohanCDev&layout=compact&theme=vision-friendly-dark)
+![JohanCDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=JohanCDev&show_icons=true&theme=great-gatsby)
 
 ## Contact
 
