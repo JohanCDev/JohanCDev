@@ -8,7 +8,7 @@
 <code><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/cpp/cpp.png" height="30"></code>
 <code><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/c/c.png" height="30"></code>
 <code><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/swift/swift.png" height="30"></code>
-<code><img src="https://cdn.jsdelivr.net/npm/programming-languages-logos/src/react-native/react-native.png" height="30"></code>
+<code><img src="https://marmelab.com/images/blog/react.png" height="30"></code>
 <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" height="30"></code>
 <code><img src="https://www.freepngimg.com/download/logo/69421-logo-distribution-ubuntu-unix-linux-hd-image-free-png.png" height="30"></code>
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png" height="28"></code>
