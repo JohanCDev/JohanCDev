@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 I'm currently a student at Epitech<br>💙 I'm an intern @ Doctolib<br>🌱 I'm learning Ruby on Rails and Next.js<br>🏆 I'm a player of basketball since I can walk<br>
+💻 I'm currently a student at Epitech<br>💙 I'm an intern @ Doctolib<br>🌱 I'm learning Ruby on Rails<br>🏆 I'm a player of basketball since I can walk<br>
 
 
 ## 🌐 Socials:
