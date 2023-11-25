@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 I'm currently a student at Epitech<br>🇨🇦 On a scholar exchange in Canada<br>🌱 I'm learning Ruby on Rails<br>💛 Developer @ NoLoSay<br>🏆 I'm a player of basketball since I can walk<br>Visit my website [here](https://portfolio-81q4s7v51-johancdev.vercel.app)!<br>
+💻 I'm currently a student at Epitech<br>🇨🇦 On a scholar exchange in Canada<br>🌱 I'm learning Ruby on Rails<br>💛 Developer @ NoLoSay<br>🏆 I'm a player of basketball since I can walk<br>Visit my website [here](https://portfolio-nine-rho-17.vercel.app)!<br>
 
 
 ## 🌐 Socials:
