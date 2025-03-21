@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 I'm currently a student at Epitech<br>🇨🇦 On a scholar exchange in Canada<br>🌱 I'm currently learning a lot about business and also Swift<br>💛 Developer @ NoLoSay<br>🏆 I'm a player of basketball since I can walk<br>Visit my website [here](https://portfolio-nine-rho-17.vercel.app)!<br>
+💻 I'm currently a student at Epitech<br>🇫🇷 Back in France after  a scholar exchange in Canada 🇨🇦<br>🌱 I'm currently learning a lot about React / Ruby / Java<br>💙 Developer @doctolib<br>🏆 I'm a player of basketball since I can walk<br>Visit my website [here](https://portfolio-nine-rho-17.vercel.app)!<br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johancdev&label=Profile%20views&color=0e75b6&style=flat" alt="johancdev" /> </p>
 
